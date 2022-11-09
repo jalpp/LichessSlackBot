@@ -14,6 +14,8 @@ slack bot sends 5+0 chess game
 **/watch**
 slackbot sends current Lichess Blitz tv game in slack as a gif
 
+## Screenshots
+![image](https://raw.githubusercontent.com/jalpp/LichessSlackBot/main/pythonbot/screenshot1.PNG)
 
 ## Development 
 need slack app and ngrok to run bot special http endpoint to consume slack commands endpoints 
