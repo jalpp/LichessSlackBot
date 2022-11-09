@@ -3,15 +3,15 @@ A simple slack bot that can show lichess tv games in gif and post live chess cha
 
 Screenshots can be found in the project file
 
-#Requirments 
+## Requirments 
 Need Flask and Slack python lib installed 
 
-#commands 
+## commands 
 
-/playchess 
+**/playchess** 
 slack bot sends 5+0 chess game
 
-/watch
+**/watch**
 slackbot sends current Lichess Blitz tv game in slack as a gif
 
 
