@@ -19,5 +19,5 @@ slackbot sends current Lichess Blitz tv game in slack as a gif
 ![image](https://raw.githubusercontent.com/jalpp/LichessSlackBot/main/pythonbot/screenshot2.PNG)
 
 ## Development 
-need slack app and ngrok to run bot special http endpoint to consume slack commands endpoints 
+need slack app and ngrok to run the bot on a special http endpoint to consume slack commands endpoints 
 more can be found here [Slack API Help](https://slack.com/help/articles/115005265703-Create-a-bot-for-your-workspace)
