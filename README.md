@@ -4,7 +4,7 @@ A simple slack bot that can show lichess tv games in gif and post live chess cha
 Screenshots can be found in the project file
 
 ## Requirments 
-Need Flask and Slack python lib installed 
+Need Flask, Slack, Lichess Berserk python lib installed 
 
 ## commands 
 
